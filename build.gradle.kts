@@ -110,12 +110,12 @@ publishing {
 
             pom {
                 name.set("spring-kotlin-reflection")
-                description.set("A library for publishing in Maven Central") // TODO
+                description.set("Reflection library for Kotlin with Spring Boot")
                 url.set("https://mbo.dev")
                 licenses {
                     license {
                         name.set("Apache License, Version 2.0")
-                        url.set("http://www.apache.org/licenses/LICENSE-2.0.txt")
+                        url.set("https://www.apache.org/licenses/LICENSE-2.0.txt")
                         distribution.set("repo")
                     }
                 }
