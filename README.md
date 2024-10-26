@@ -1,6 +1,6 @@
-# "spring-kotlin-reflection"
+# spring-kotlin-reflection
 
-Some library to release on Maven Central.
+Reflection library for Kotlin with Spring Boot.
 
 ## Release
 
